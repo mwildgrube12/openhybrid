@@ -1,0 +1,23 @@
+Tasks:
+
+
+Input screen
+ a. Make inputs for various needed numbers
+
+Simulations using regression models
+ a. research said regression models
+
+Simulations from flow models
+ a. mesh generation
+     i. generation from engine params
+
+    b. compressible navier-stokes
+    c. heat equation
+    d. fick's law
+    e. eddy dissipation
+        i. arrenhious?
+        ii. get kinetics numbers
+    f. im probably stupid and forgetting half of it
+
+Solver
+ a. true
