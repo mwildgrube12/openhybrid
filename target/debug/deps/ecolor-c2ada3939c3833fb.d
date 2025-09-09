@@ -1,0 +1,10 @@
+H:\documents\rockets\motor\openhybrid\openhybrid\target\debug\deps\ecolor-c2ada3939c3833fb.d: C:\Users\rapidragon12\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.32.2\src\lib.rs C:\Users\rapidragon12\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.32.2\src\color32.rs C:\Users\rapidragon12\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.32.2\src\hsva_gamma.rs C:\Users\rapidragon12\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.32.2\src\hsva.rs C:\Users\rapidragon12\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.32.2\src\rgba.rs C:\Users\rapidragon12\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.32.2\src\hex_color_runtime.rs
+
+H:\documents\rockets\motor\openhybrid\openhybrid\target\debug\deps\libecolor-c2ada3939c3833fb.rmeta: C:\Users\rapidragon12\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.32.2\src\lib.rs C:\Users\rapidragon12\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.32.2\src\color32.rs C:\Users\rapidragon12\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.32.2\src\hsva_gamma.rs C:\Users\rapidragon12\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.32.2\src\hsva.rs C:\Users\rapidragon12\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.32.2\src\rgba.rs C:\Users\rapidragon12\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.32.2\src\hex_color_runtime.rs
+
+C:\Users\rapidragon12\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.32.2\src\lib.rs:
+C:\Users\rapidragon12\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.32.2\src\color32.rs:
+C:\Users\rapidragon12\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.32.2\src\hsva_gamma.rs:
+C:\Users\rapidragon12\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.32.2\src\hsva.rs:
+C:\Users\rapidragon12\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.32.2\src\rgba.rs:
+C:\Users\rapidragon12\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\ecolor-0.32.2\src\hex_color_runtime.rs:
