@@ -1,5 +1,2 @@
-pub mod tank;
-pub mod const_reg;
-pub mod dyna_reg;
-
+pub mod sim;
 pub mod ui;
